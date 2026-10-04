@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm rehan</h1>
 <h3 align="center">A passionate Larper from south jakarta</h3>
 
-- I’m currently working on **Peter thiel n Sam Altman Neuron rendering Dildo powered by Jetson Nano**
+- I’m currently working on **Peter thiel n Sam Altman Advance Neuron Rendering Dildo (ANRD) powered by Jetson Nano**
 
-- I’m looking to collaborate on **Alex Karp anti Psychotic Non Clozapine meds**
+- I’m looking to collaborate on **Alex Karp Anti Psychotic Non Clozapine meds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
