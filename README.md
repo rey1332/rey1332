@@ -54,7 +54,7 @@
 
 <p align="center">
   <i>
-    "The future is already here. It is just unevenly distributed across my 1TB Mac M4."
+    "The future is already here. It is just unevenly distributed across my 1TB Mac M4. and my 9070xt"
   </i>
 </p>
 
