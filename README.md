@@ -7,7 +7,7 @@
 
 <p align="center">
   <i>
-    Moving fast, breaking things, and calling it enterprise-grade.
+    Moving fast, breaking things, and calling it enterprise grade.
   </i>
 </p>
 
@@ -17,16 +17,13 @@
 
 ---
 
--  Currently building **PrintStream** — because apparently Excel wasn't dystopian enough.
--  Researching **neuron rendering, synthetic cognition, and shareholder value extraction**.
--  Looking to collaborate with **Peter Thiel, Sam Altman, and anyone willing to approve my GPU expenses**.
+-  Currently building **PrintStream**  because apparently Foundry wasn't dystopian enough.
+-  Researching ** a cloud hosted neuron rendering dildo, synthetic cognition, and shareholder value extraction**.
+-  Looking to collaborate with **Peter Thiel, Sam Altman, and anyone willing to approve my electricity expenses**.
 -  My investment thesis is simple: *what if PostgreSQL had a god complex?*
--  Fun fact: I believe every problem can be solved with enough compute, capital, and a complete disregard for thermal limits.
--  Current employee count: 2(claude n me).  
-  Projected market dominance: inevitable.
 - Specializing in turning questionable ideas into technically impressive infrastructure nobody asked for (i failed 90% of my class).
 
-### 🛠️ My Technological Stack
+### My Technological Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
@@ -39,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
 </p>
 
-### 📡 Strategic Partnerships
+### Strategic Partnerships
 
 - Instagram: my primary investor relations channel.
 - LeetCode: high-frequency intellectual capital deployment.
