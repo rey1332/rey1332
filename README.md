@@ -41,14 +41,6 @@
 - Instagram: my primary investor relations channel.
 - LeetCode: high-frequency intellectual capital deployment.
 
-### 📊 Key Performance Indicators
-
-- Lines of code: statistically significant.
-- Technical debt: classified.
-- Sleep schedule: deprecated.
-- Burn rate: mostly electricity.
-- Exit strategy: acquire Microsoft or become a cautionary case study.
-
 <p align="center">
   <i>
     "The future is already here. It is just unevenly distributed across my 1TB Mac M4. and my 9070xt"
